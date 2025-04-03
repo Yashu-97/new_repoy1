@@ -1,1 +1,2 @@
 Created a new text file.
+now move from git local we use pull command
